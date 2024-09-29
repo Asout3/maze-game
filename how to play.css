@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background for better visibility */
+}
+
+#instructions {
+    background-color: white; /* White background for the instructions */
+    border: 2px solid black; /* Black border around the instructions */
+    padding: 20px; /* Padding inside the instructions box */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    text-align: center; /* Centered text */
+}
